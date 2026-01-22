@@ -40,6 +40,8 @@
   - Cyclic groups and order of elements
   - Lagrange's Theorem
   - Use Lagrange's theorem to prove Fermat's Little Theorem
+
+  This slide will cover some of Dummit Foote Chapter 2, and section 3.2.
 ]
 
 #slide[
